@@ -121,6 +121,7 @@ InitTestScene*.unity*
 
 # Burst debug info from builds
 /[Bb]uilds/*_BurstDebugInformation_DoNotShip/
+/[Bb]uilds/*_BackUpThisFolder_ButDontShipItWithYourGame/
 
 # Persoonlijke instellingen van AI-assistenten, per computer
 /.claude/
