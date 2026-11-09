@@ -126,3 +126,7 @@ InitTestScene*.unity*
 # Persoonlijke instellingen van AI-assistenten, per computer
 /.claude/
 CLAUDE.md
+
+# Door de Performance Testing-package bij een build aangemaakt, niet in git
+/[Aa]ssets/[Rr]esources/PerformanceTestRun*
+/[Aa]ssets/[Rr]esources.meta

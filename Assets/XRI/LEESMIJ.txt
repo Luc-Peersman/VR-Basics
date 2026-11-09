@@ -1,0 +1,4 @@
+NIET AANPASSEN
+
+Deze map hoort bij een Unity-package (instellingen voor XR). Unity verwacht hem hier, in de hoofdmap van Assets.
+Verplaats, hernoem of verwijder hem niet.
