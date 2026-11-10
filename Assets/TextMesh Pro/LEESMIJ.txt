@@ -1,0 +1,4 @@
+NIET AANPASSEN
+
+Deze map hoort bij TextMesh Pro (tekst in Unity). Unity en de XR-voorbeelden zoeken hem op precies deze plek:
+Assets/TextMesh Pro. Verplaats, hernoem of verwijder hem niet.
